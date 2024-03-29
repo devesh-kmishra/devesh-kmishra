@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devesh-kmishra
-- 👀 I’m interested in web development and project management.
+- 👀 I’m interested in fullstack development and project management.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me ...
