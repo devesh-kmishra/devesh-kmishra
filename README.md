@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @devesh-kmishra
 - 👀 I’m interested in fullstack development and project management.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on nothing for now.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on MERN stack projects.
+- 📫 You can reach me on mdevesh47@gmail.com and https://www.linkedin.com/in/devesh-krishna-mishra-0563b5235.
 - 😄 Pronouns: hello/world
 - ⚡ Fun fact: I have a degree in History.
 
