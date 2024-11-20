@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN stack projects.
 - 📫 You can reach me on mdevesh47@gmail.com and https://www.linkedin.com/in/devesh-krishna-mishra-0563b5235.
 - 😄 Pronouns: hello/world
-- ⚡ Fun fact: I am a perfekshonist to a fault.
+- ⚡ Fun fact: I am a perfekshonist.
 
 <!---
 devesh-kmishra/devesh-kmishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
